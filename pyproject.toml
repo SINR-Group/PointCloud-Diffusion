@@ -2,7 +2,7 @@
 name = "pointcloud-diffusion"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Ahad Imran imran.ah@northeastern.edu"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
